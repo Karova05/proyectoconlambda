@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tarealambda")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f68514d97674ac232f98fb457be8d6cf680081f")]
 [assembly: System.Reflection.AssemblyProductAttribute("tarealambda")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tarealambda")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

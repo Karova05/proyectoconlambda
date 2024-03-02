@@ -60,30 +60,41 @@ while (op <= 6) // con este while hare funcionar el menu, hasta que el usuario p
                 Console.WriteLine("¿ Desea continuar agregar mas estudiantes ?(s/n): ");
                 Finalizador = Console.ReadLine();
 
-                if (Finalizador.ToLower() == "s")
+                if (Finalizador != "s" && Finalizador != "n")
                 {
-                    Repeticion = true;
-
-                }
-                else
-                {
-                    Repeticion = false;
+                    Console.WriteLine("Opción incorrecta. Por favor, seleccione 's' para sí o 'n' para no.");
                 }
 
-            } while (Repeticion);
-
+            } while (Finalizador != "s" && Finalizador != "n");
 
 
             break;
 
-        case 3:// consultar Estudiantes
+
+
+        case 3: // Consultar Estudiantes
+            Console.WriteLine("Digite la cedula del estudiante que desea consultar: ");
+            string cedulaConsulta = Console.ReadLine();
+
+            bool estudianteEncontrado = false;
+
             for (int i = 0; i < CantidadEstudiantes; i++)
             {
-                Console.WriteLine($"Cedula: {Cedulas[i]}");
-                Console.WriteLine($"Nombre: {Nombres[i]}");
-                Console.WriteLine($"Promedio: {promedio[i]}");
-                Console.WriteLine($"Condicion: {Condicion[i]}");
-                Console.WriteLine();
+                if (cedulaConsulta.Equals(Cedulas[i]))
+                {
+                    estudianteEncontrado = true;
+                    Console.WriteLine($"Cedula: {Cedulas[i]}");
+                    Console.WriteLine($"Nombre: {Nombres[i]}");
+                    Console.WriteLine($"Promedio: {promedio[i]}");
+                    Console.WriteLine($"Condicion: {Condicion[i]}");
+                    Console.WriteLine();
+                    break;
+                }
+            }
+
+            if (!estudianteEncontrado)
+            {
+                Console.WriteLine($"La Cedula {cedulaConsulta} no está registrada.");
             }
             break;
 

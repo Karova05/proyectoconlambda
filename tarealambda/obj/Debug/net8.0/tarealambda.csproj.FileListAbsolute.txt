@@ -1,0 +1,15 @@
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\bin\Debug\net8.0\tarealambda.exe
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\bin\Debug\net8.0\tarealambda.deps.json
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\bin\Debug\net8.0\tarealambda.runtimeconfig.json
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\bin\Debug\net8.0\tarealambda.dll
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\bin\Debug\net8.0\tarealambda.pdb
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.AssemblyInfoInputs.cache
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.AssemblyInfo.cs
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.csproj.CoreCompileInputs.cache
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.sourcelink.json
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.dll
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\refint\tarealambda.dll
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.pdb
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\tarealambda.genruntimeconfig.cache
+C:\Users\Karla Valverde\source\repos\tarealambda\tarealambda\obj\Debug\net8.0\ref\tarealambda.dll
